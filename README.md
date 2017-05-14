@@ -10,7 +10,7 @@ Hardware description can be found here:
 
 I'll try to describe everything i've used to install and make this work, i'm working with Raspbian Jessie. I'm assuming you downloaded this repository in your pi home directory and are running from that directory.
 
-## Instal the cpp service
+## Install the cpp service
 
 Install the kernel headers (don't know if the headers is used where allready there, so maybe this can be skipped)
 ```
